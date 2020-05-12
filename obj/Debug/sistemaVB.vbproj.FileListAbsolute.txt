@@ -1,0 +1,12 @@
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\bin\Debug\sistemaVB.dll
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\bin\Debug\sistemaVB.pdb
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\bin\Debug\sistemaVB.xml
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\obj\Debug\sistemaVB.vbprojAssemblyReference.cache
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\obj\Debug\sistemaVB.Resources.resources
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\obj\Debug\sistemaVB.f_login.resources
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\obj\Debug\sistemaVB.vbproj.GenerateResource.cache
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\obj\Debug\sistemaVB.vbproj.CoreCompileInputs.cache
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\obj\Debug\sistemaVB.dll
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\obj\Debug\sistemaVB.xml
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\obj\Debug\sistemaVB.pdb
+C:\PROJETOS EM ANDAMENTO\sistemaVB\sistemaVB\obj\Debug\sistemaVB.F_principal.resources
